@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> This project is no longer maintained. Moving forward, we will be maintaining [Javinizer-Go](https://github.com/javinizer/javinizer-go) instead. Please check out that project instead.
+
 <h1 align="center">
   Javinizer (JAV Organizer)
   <br>
